@@ -51,24 +51,24 @@
 ### 📸 Application Interface Showcase
 
 <p align="center">
-  <img src="Images/1.PNG" width="48%" />
-  <img src="Images/2.PNG" width="48%" />
+  <img src="Images/1.png" width="48%" />
+  <img src="Images/2.png" width="48%" />
 </p>
 <p align="center">
-  <img src="Images/3.PNG" width="48%" />
-  <img src="Images/4.PNG" width="48%" />
+  <img src="Images/3.png" width="48%" />
+  <img src="Images/4.png" width="48%" />
 </p>
 <p align="center">
-  <img src="Images/5.PNG" width="48%" />
-  <img src="Images/6.PNG" width="48%" />
+  <img src="Images/4.png" width="48%" />
+  <img src="Images/5.png" width="48%" />
 </p>
 <p align="center">
-  <img src="Images/7.PNG" width="48%" />
-  <img src="Images/8.PNG" width="48%" />
+  <img src="Images/6.png" width="48%" />
+  <img src="Images/7.png" width="48%" />
 </p>
 <p align="center">
-  <img src="Images/9.PNG" width="48%" />
-  <img src="Images/13.PNG" width="48%" />
+  <img src="Images/8.png" width="48%" />
+  <img src="Images/9.png" width="48%" />
 </p>
 
 ---
