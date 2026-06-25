@@ -2,7 +2,7 @@
 <h3 align="center">Enterprise-Grade Academic Lifecycle & Grading Workflow Engine</h3>
 
 <p align="center">
-  A comprehensive, multi-tier enterprise web application designed to optimize academic record-keeping and grade management workflows between students, faculty members, and university registrars. Built on a robust <strong>Java EE (Jakarta EE)</strong> architecture, this system ensures reliable relational data persistence, advanced security patterns (salted SHA-256 password hashing), strict multi-role authorization, and real-time GPA processing for high-throughput academic environments.
+  A comprehensive, multi-tier enterprise web application designed to optimize academic record-keeping and grade management workflows between students, faculty members, and university registrars. Built on a <strong>Java EE (Jakarta EE)</strong> architecture, this system ensures reliable relational data persistence, advanced security patterns (salted SHA-256 password hashing), strict multi-role authorization, and real-time GPA processing for high-throughput academic environments.
 </p>
 
 <p align="center">
@@ -13,9 +13,8 @@
 
 ### Core System Modules
 
-* **Student Analytics & Transcript Engine:** Implements secure authentication protocols providing students with a real-time, responsive dashboard. Features an automated analytical engine that aggregates transcripts by semester, calculates a dynamically weighted Grade Point Average (GPA), monitors accumulated ECTS credits, and tracks successfully completed courses.
+* **Student Analytics:** Implements secure authentication protocols providing students with a real-time, responsive dashboard. Features an automated analytical engine that aggregates transcripts by semester, calculates a dynamically weighted Grade Point Average (GPA), monitors accumulated ECTS credits, and tracks successfully completed courses.
 * **Faculty Grading Ledger:** Empowers professors with a custom grade-management interface scoped exclusively to their assigned courses. Utilizes state-of-the-art database execution mechanics (`ON DUPLICATE KEY UPDATE`) to handle seamless single-view entry, submission, and instantaneous modification of student grade rosters.
-* **Registrar & Administrative Orchestration Layer:** Centralized administration portal for university secretaries to manage organizational metadata. Provides granular management of the university's master course schedule, offering complete view sovereignty over unassigned/orphaned modules and multi-tenant professor-to-course load balancing via advanced relational `LEFT JOIN` structures.
 
 ---
 
