@@ -1,8 +1,8 @@
 <h1 align="center">University Academic & Grade Management System</h1>
-<h3 align="center">Enterprise-Grade Academic Lifecycle & Grading Workflow Engine</h3>
+<h3 align="center">Academic Lifecycle & Grading Workflow Engine</h3>
 
 <p align="center">
-  A comprehensive, multi-tier enterprise web application designed to optimize academic record-keeping and grade management workflows between students, faculty members, and university registrars. Built on a <strong>Java EE (Jakarta EE)</strong> architecture, this system ensures reliable relational data persistence, advanced security patterns (salted SHA-256 password hashing), strict multi-role authorization, and real-time GPA processing for high-throughput academic environments.
+  A comprehensive multi-tier web application designed to optimize academic record-keeping and grade management workflows between students and faculty members. Built on a <strong>Java EE (Jakarta EE)</strong> architecture, this system ensures reliable relational data persistence, advanced security patterns (salted SHA-256 password hashing), strict multi-role authorization, and real-time GPA processing.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ### Core System Modules
 
 * **Student Analytics:** Implements secure authentication protocols providing students with a real-time, responsive dashboard. Features an automated analytical engine that aggregates transcripts by semester, calculates a dynamically weighted Grade Point Average (GPA), monitors accumulated ECTS credits, and tracks successfully completed courses.
-* **Faculty Grading Ledger:** Empowers professors with a custom grade-management interface scoped exclusively to their assigned courses. Utilizes state-of-the-art database execution mechanics (`ON DUPLICATE KEY UPDATE`) to handle seamless single-view entry, submission, and instantaneous modification of student grade rosters.
+* **Faculty Grading Ledger:** Empowers professors with a custom grade-management interface scoped exclusively to their assigned courses.
 
 ---
 
