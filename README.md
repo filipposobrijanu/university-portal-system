@@ -11,7 +11,7 @@
 
 ---
 
-### ✨ Core System Modules
+### Core System Modules
 
 * **Student Analytics & Transcript Engine:** Implements secure authentication protocols providing students with a real-time, responsive dashboard. Features an automated analytical engine that aggregates transcripts by semester, calculates a dynamically weighted Grade Point Average (GPA), monitors accumulated ECTS credits, and tracks successfully completed courses.
 * **Faculty Grading Ledger:** Empowers professors with a custom grade-management interface scoped exclusively to their assigned courses. Utilizes state-of-the-art database execution mechanics (`ON DUPLICATE KEY UPDATE`) to handle seamless single-view entry, submission, and instantaneous modification of student grade rosters.
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Enterprise Technology Stack
+### Enterprise Technology Stack
 
 **Backend Framework & Spec Implementations**
 <p align="left">
@@ -48,7 +48,7 @@
 
 ---
 
-### 📸 Application Interface Showcase
+### Application Interface Showcase
 
 <p align="center">
   <img src="Images/1.png" width="48%" />
@@ -73,7 +73,7 @@
 
 ---
 
-### 🚀 Enterprise Deployment Guide
+### Enterprise Deployment Guide
 
 **1. Infrastructure Prerequisites:**
 * **Java JDK:** Ensure a production-compatible JDK (11 or higher) is configured in your global environment variables.
@@ -91,7 +91,7 @@
 
 ---
 
-### 🤝 Contribution & Contact
+### Contribution & Contact
 
 Contributions targeting the expansion of student data analytics modules, performance tuning of relational join queries, or modernizing the CSS layout engine are highly welcomed. Please feel free to open an issue tracker or submit an official, well-documented pull request.
 
